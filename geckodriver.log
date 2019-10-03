@@ -1,0 +1,42 @@
+1570103212901	geckodriver	INFO	geckodriver 0.19.1
+1570103212909	geckodriver	INFO	Listening on 127.0.0.1:56385
+1570103214060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.YG6jf72YaPJE"
+*** You are running in headless mode.
+1570103216669	Marionette	INFO	Listening on port 38405
+1570103216693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prd-header-biding.vda.netsprint.pl/js/tools.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://prd-header-biding.vda.netsprint.pl/js/tools.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://demis.awangarda.nscontext.eu/?masterId=mi16d917201ca4770084e4d0e1b04, line 30: unreachable code after return statement
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/en_US/LC_MESSAGES/libc.mo
+[Child 10382, Chrome_ChildThread] WARNING: pipe error (16): Connection reset by peer: file /build/firefox-esr-1sNYZF/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1570103265251	geckodriver	INFO	geckodriver 0.19.1
+1570103265262	geckodriver	INFO	Listening on 127.0.0.1:47491
+1570103266414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.dsXAzIgxZWm2"
+*** You are running in headless mode.
+1570103268997	Marionette	INFO	Listening on port 41891
+1570103269054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://demis.awangarda.nscontext.eu/?masterId=mi16d9172bd0a53d943a336ff1223, line 30: unreachable code after return statement
+JavaScript warning: https://demis.awangarda.nscontext.eu/?masterId=mi16d9172bd6a7a888930bec9da79, line 30: unreachable code after return statement
+JavaScript error: https://prd-header-biding.vda.netsprint.pl/js/tools.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://prd-header-biding.vda.netsprint.pl/js/tools.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://streamango.com/embed/qlppdobemtbsqbts, line 1: unreachable code after return statement
+JavaScript warning: https://streamango.com/embed/qlppdobemtbsqbts line 43 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
