@@ -1,4 +1,5 @@
-# filiscrapper.py
+# filiscrapper.py (fili.cc not working since the end of 2019)
+**Repo archieved!**
 Python fili.cc scrapping tool which takes fili.cc link and finds the source url of it. Filiscrapper uses selenium python webdriver and geckodriver (firefox)
 # Dependencies
 *  python2.7
